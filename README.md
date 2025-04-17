@@ -1,10 +1,12 @@
 # BlockBeats MCP Server
 
+An MCP server that delivers blockchain news and in-depth articles from BlockBeats for AI agents.
+
+[![Discord](https://img.shields.io/discord/1353556181251133481?cacheSeconds=3600)](https://discord.gg/aRnuu2eJ)
 ![GitHub License](https://img.shields.io/github/license/kukapay/blockbeats-mcp)
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
-An MCP server that delivers blockchain news and in-depth articles from BlockBeats for AI agents.
 
 ## Features
 
