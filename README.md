@@ -16,6 +16,15 @@ An MCP server that delivers blockchain news and in-depth articles from BlockBeat
 
 ## Installation
 
+### Installing via Smithery
+
+To install BlockBeats News for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@kukapay/blockbeats-mcp):
+
+```bash
+npx -y @smithery/cli install @kukapay/blockbeats-mcp --client claude
+```
+
+### Manual Installation
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/kukapay/blockbeats-mcp.git
