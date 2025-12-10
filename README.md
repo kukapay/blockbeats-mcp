@@ -7,6 +7,7 @@ An MCP server that delivers blockchain news and in-depth articles from BlockBeat
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
+*Try [Kukapay News MCP](https://github.com/kukapay/kukapay-news-mcp) — no API key required, fully AI-annotated*.
 
 ## Features
 
