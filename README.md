@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-blockbeats-mcp-badge.png)](https://mseep.ai/app/kukapay-blockbeats-mcp)
+
 # BlockBeats MCP Server
 
 An MCP server that delivers blockchain news and in-depth articles from BlockBeats for AI agents.
