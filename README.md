@@ -14,6 +14,10 @@ An MCP server that delivers blockchain news and in-depth articles from BlockBeat
 - **In-Depth Articles**: Access detailed blockchain articles with the `get_latest_articles` tool.
 - **Multi-Language Support**: Supports English (`en`), Simplified Chinese (`cn`), and Traditional Chinese (`cht`).
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/kukapay-blockbeats-mcp).
+
 ## Installation
 
 ### Installing via Smithery
